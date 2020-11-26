@@ -1,4 +1,4 @@
-# flutter_calculator
+# Flutter Exercises
 
 A new Flutter application.
 
